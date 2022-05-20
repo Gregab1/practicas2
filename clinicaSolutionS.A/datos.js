@@ -1,29 +1,4 @@
-/*var pacientes = [
-  "Martin Luna",
-  "Pedro Garcia",
-  "Javier Perez",
-  "Leonel Pedraza",
-  "Alejandra Ribarola",
-  "Victor Rodriguez",
-  "Montiel Dominguez",
-  "Jonas Lopez",
-  "Santiago Mansilla",
-  "Nicolas Livellara",
-];
-var edad = [57, 88, 50, 20, 35, 44, 81, 32, 39, 33];
-var ObraSocial = [
-  "Osep",
-  "Osprera",
-  "Osdipp",
-  "Simeco",
-  "Serversalud",
-  "Osep",
-  "Osprera",
-  "Simeco",
-  "Osprera",
-  "Simeco",
-];
-var EstadoCronico = ["grave","grave","leve","grave","leve","grave","leve","leve","leve","leve",];*/
+
 var docs=['Hugo Llanos','Pedro Pacheco','Nicolas Soto','Andres Avalos','Francisco Cabre','Emiliano Martines'];
 
 
